@@ -1,0 +1,8 @@
+Scripts/
+obj/
+Lib/
+Include/
+etc/
+share/
+.vscode
+pyvenv.cfg
