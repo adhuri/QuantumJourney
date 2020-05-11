@@ -6,3 +6,4 @@ etc/
 share/
 .vscode
 pyvenv.cfg
+/bin/
